@@ -131,7 +131,7 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 ###### What should I cover during my presentation?
 
-Project 3 presentations will start at **{{ENTER TIME HERE}}** on **{{ENTER DUE DATE HERE}}**. Each presentation should be **8 minutes or less** and cover the following:
+Project 3 presentations will start at **9:17AM** on **February 26**. Each presentation should be **5-8 minutes or less** and cover the following:
 
 * What was your motivation to build this project?
 * Demo of your project's core functionality.
